@@ -1,2 +1,2 @@
 # StatPro
-Chatbot for Stat Coourses
+Chatbot for Stat Courses
